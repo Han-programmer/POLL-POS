@@ -1,0 +1,6 @@
+{
+  "name": "POLL POS",
+  "description": "Aplikasi Kasir POS Modern & Offline-First untuk UMKM, Cafe, Restoran dan Toko di Indonesia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
